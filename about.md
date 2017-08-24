@@ -3,13 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hi, my name is Jesper Jaxing, a Software Engineer in training. 
+As of right now I am just about to start the fall semest of my fourth year at Chalmers.
+At Chalmers I have done a bunch of things, chairman for a event organization group, member of the student union division board, started a craft brewers club, and more!
+My major have been software engineering/computer science with some focus on machine learning. Druing my bachlors thesis we tried to create a neural net that could take a post from reddit and output which user would find that post intersting. A sort of smart notifcation algorithm, sadly we realized to late that it is not optimal to try to do multi-classification on 10's of thousands and the result never got very good. However I learned incredably much during that time.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Next adventure is going to be to find an intership in the US and spend a year working in SF!
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+For more stories check out [My blog](/blog/) and you can find my resumé [here](/cv/) 
