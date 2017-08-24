@@ -14,6 +14,7 @@ url: "http://jaxing.github.io" # the base hostname & protocol for your site
 permalink: /blog/:year/:month/:day/:title
 #twitter_username:
 github_username:  jaxing
+linkedin_username: jaxingj
 
 # Build settings
 markdown: kramdown
