@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cv
+title: Resume
 permalink: /cv/
 ---
 
@@ -8,7 +8,9 @@ permalink: /cv/
 
 2014 - 		Software Engineering at Chalmers Univeristy of Technology
 
-# Work Experience
+<br>
+
+## Work Experience
 
 ### 2017 Jun - Aug	Intern Developer at Ericsson
 
@@ -36,8 +38,9 @@ Mainly garden work and tending to lodgers complaints.
 
 ### 2010 - 2013 Sailing Teacher at Bohus-Malmöns båtklubb
 
+<br>
 
-# Volunteer Work / Extra Curriculum 
+## Volunteer Work / Extra Curriculum 
 
 ### 2017 - 2018 	Board member of the student union division, at Chalmers
 
@@ -51,7 +54,9 @@ I have during the last year worked voluntarily as  president of a committee whos
 
 I have been a member of the board at Bohusmalöns Båt Klubb, my responsibility was to act as a bridge between the board and the youths who worked at the club. 
 
-# Languages
+<br>
+
+## Languages
 
 *Swedish* - Native language
 
@@ -59,7 +64,7 @@ I have been a member of the board at Bohusmalöns Båt Klubb, my responsibility 
 
 *German*  - Beginners level, but I am working on it
 
-# Programming Languages
+## Programming Languages
 
 * Java
 * C++
@@ -68,7 +73,7 @@ I have been a member of the board at Bohusmalöns Båt Klubb, my responsibility 
 * Javascript
 * PHP
 
-# Tools and Frameworks
+## Tools and Frameworks
 
 * Git
 * Tensorflow
