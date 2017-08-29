@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![Profile](/profile.jpg){:style="float: right; margin-right: 7px;margin-top: 7px; height: 210px;"}
 Hi, my name is Jesper Jaxing, a Software Engineer in training. 
 As of right now I am just about to start the fall semest of my fourth year at Chalmers.
 At Chalmers I have done a bunch of things, chairman for a event organization group, member of the student union division board, started a craft brewers club, and more!
